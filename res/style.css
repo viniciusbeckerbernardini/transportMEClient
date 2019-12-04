@@ -1,0 +1,23 @@
+body{
+	background-color: #d1d1d1;
+}
+
+#main-container div{
+	margin:20px 0px 20px 0px;
+}
+.navbar-brand{
+	margin-right: 40px;
+	font-size: 18px;
+}
+
+.nav-link{
+	background: rgba(1,1,1,0.4);
+	color: #fff !important;
+}
+
+.nav-icon{
+	color: #fff;
+    margin-right: 25px;
+    display: inline-flex;
+    align-items: center;
+}
